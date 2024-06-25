@@ -1,0 +1,1 @@
+docker buildx build -t hello --platform linux/amd64 --load .
